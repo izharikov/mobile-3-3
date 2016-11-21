@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Control Elem Example</string>
+    <string name="one">One</string>
+    <array name="list_content">
+        <item>Android</item>
+        <item>IPhone</item>
+        <item>WindowsMobile</item>
+        <item>Blackberry</item>
+        <item>WebOS</item>
+        <item>Ubuntu</item>
+        <item>Windows7</item>
+        <item>Mac OS X</item>
+        <item>Windows 8</item>
+        <item>Windows 10</item>
+        <item>Linux Server</item>
+        <item>I don\'t</item>
+        <item>know</item>
+        <item>what</item>
+        <item>to</item>
+        <item>wright</item>
+        <item>here</item>
+        <item></item>
+    </array>
+</resources>
